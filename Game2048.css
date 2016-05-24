@@ -1,0 +1,88 @@
+#Cell0{
+	-fx-background-color: #CDC0B5;
+}
+#Label1{
+	-fx-text-fill: #756C63;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell1{
+	-fx-background-color: #EEE4DB;
+}
+#Label2{
+	-fx-text-fill: #756C63;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell2{
+	-fx-background-color: #EDE0C9;
+}
+#Label3{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell3{
+	-fx-background-color: #F1B17D;
+}
+#Label4{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell4{
+	-fx-background-color: #F39568;
+}
+#Label5{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell5{
+	-fx-background-color: #F47C63;
+}
+
+#Label6{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell6{
+	-fx-background-color: #F45F43;
+}
+
+#Label7{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+#Cell7{
+	-fx-background-color: #ECCE78;
+}
+
+#GridPane{
+	-fx-background-color: #BBADA1;
+}
+
+#Score1Pane{
+	-fx-background-color: #8E7A67;
+}
+
+#Score2Pane{
+	-fx-background-color: #ECC44C;
+}
+#Score1{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+}
+#Score2{
+	-fx-text-fill: #FFFFFF;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+}
+#BestScore1{
+	-fx-text-fill: #F9F6F2;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+}
